@@ -5,4 +5,4 @@ The first one was a  28kg bob from 67m string. The pendulum basically swings bac
 
 # Equation 
 The equation of trajectory of the Foucalt Pendulum can be derivied by using Lagrange's Equation of motion. And is given by
-<img src="https://render.githubusercontent.com/render/math?math=\ddot{x} - 2\dot{y}">
+<img src="https://render.githubusercontent.com/render/math?math=\ddot{x} - 2\dot{y}\Omega\sin(\lamda)">
