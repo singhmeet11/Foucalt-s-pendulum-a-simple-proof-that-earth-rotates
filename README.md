@@ -20,4 +20,4 @@ the final equation obtained is of the form-
 this eeqution has the solution 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=p =( C_1 e^{i\sqrt{\frac{g}{l}}t}  %2BC_2 e^{-i\sqrt{\frac{g}{l}}t}) = e^{-i\Omegasin(\lambda)}" >
+<img src="https://render.githubusercontent.com/render/math?math=p =( C_1 e^{i\sqrt{\frac{g}{l}}t}  %2BC_2 e^{-i\sqrt{\frac{g}{l}}t}) = e^{-i \Omega sin(\lambda)}" >
