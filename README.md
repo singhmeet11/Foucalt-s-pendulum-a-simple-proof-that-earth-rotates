@@ -17,7 +17,8 @@ the final equation obtained is of the form-
 
 <img src="https://render.githubusercontent.com/render/math?math=\ddot{p} %2B2i\dot{p}\Omega\sin(\lambda) %2B\frac{gp}{l} = 0">
 
-this eeqution has the solution 
+this equation has the solution 
 
 
 <img src="https://render.githubusercontent.com/render/math?math=p =( C_1 e^{i\sqrt{\frac{g}{l}}t}  %2BC_2 e^{-i\sqrt{\frac{g}{l}}t}) = e^{-i \Omega sin(\lambda)}" >
+I have used python to separate the real and complex part of the equation and then  plot them accordingly.
