@@ -17,7 +17,7 @@ and
 **Note-** 
 the motion along z-axis has been neglected as the string is very long and the value of z(the displacement along z-axis) is small as compared to the diplacement along other two directions.
 
-## Method used to solve
+## Method used to solve the equation of motion
 Instead of using the long and tediuos path of solving these equation we will be using a little bit of math before we hand over our mathematical function to computer. Multiply the equation of <img src="https://render.githubusercontent.com/render/math?math=\ddot{y}"> with i and add it to equation with <img src="https://render.githubusercontent.com/render/math?math=\ddot{x} ">
 the final equation obtained is of the form-
 
