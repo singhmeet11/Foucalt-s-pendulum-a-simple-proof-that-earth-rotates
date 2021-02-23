@@ -29,4 +29,5 @@ this equation has the solution
 <img src="https://render.githubusercontent.com/render/math?math=p =( C_1 e^{i\sqrt{\frac{g}{l}}t}  %2BC_2 e^{-i\sqrt{\frac{g}{l}}t}) = e^{-i \Omega sin(\lambda)}" >
 And we will be plotting and animating this equation. 
 
+
 I have used python to separate the real and complex part of the equation and then  plot them accordingly.
