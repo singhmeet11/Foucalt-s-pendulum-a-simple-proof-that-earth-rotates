@@ -11,9 +11,10 @@ And is given by
 <img src="https://render.githubusercontent.com/render/math?math=\ddot{x} - 2\dot{y}\Omega\sin(\lambda) %2B\frac{gx}{l} = 0">
 
 and 
+
 <img src="https://render.githubusercontent.com/render/math?math=\ddot{y} %2B2\dot{x}\Omega\sin(\lambda) %2B\frac{gy}{l} = 0">.
 
-**Note- ** 
+**Note-** 
 the motion along z-axis has been neglected as the string is very long and the value of z(the displacement along z-axis) is small as compared to the diplacement along other two directions.
 
 # Solution
