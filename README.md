@@ -17,28 +17,9 @@ and
 **Note-** 
 the motion along z-axis has been neglected as the string is very long and the value of z(the displacement along z-axis) is small as compared to the diplacement along other two directions.
 
-## Method used to solve the equation of motion
-Instead of using the long and tediuos path of solving these equation we will be using a little bit of math before we hand over our mathematical function to computer. Multiply the equation of <img src="https://render.githubusercontent.com/render/math?math=\ddot{y}"> with i and add it to equation with <img src="https://render.githubusercontent.com/render/math?math=\ddot{x} ">
-the final equation obtained is of the form-
+## App 
+We developed a small app using python which is labelled "cos_fin2.py", simply launch it and you will be able to use the simple interface to observe what trajectory is followed by focults pendulum on different planets at different latitudes. 
 
-<img src="https://render.githubusercontent.com/render/math?math=\ddot{p} %2B2i\dot{p}\Omega\sin(\lambda) %2B\frac{gp}{l} = 0">
+Various plots have been analysed in the attached jupyter notebook 
 
-this equation has the solution 
-
-
-<img src="https://render.githubusercontent.com/render/math?math=p =( C_1 e^{i\sqrt{\frac{g}{l}}t}  %2BC_2 e^{-i\sqrt{\frac{g}{l}}t})e^{-i \Omega sin(\lambda)}" >
-And we will be plotting and animating this equation. 
-
-
-**First** I have used python to separate the real and complex part of the variable p, this is done using numpy library of python. The real part represents the dispacement along x-axis(x) and the imaginary part represents the displacment along y-axis(y). Then using the values of x and y, the plot has been plotted at different time intervals.
-
-#### Plotting
-For plotting I have defined an array for time and then using plot command of the matplotlib the trajectory of the bob is shown. The value of **latitude**
- can be varied according to the position of the pendulum on earth.
-#### Animation
-A function calculates the value of x and y at a particular time. The output of this function is called by **FuncAnimation** command and which animates the motion of the bob moving. The various parameters of the pendulum can be varied. 
-
-## Conclusion
-The motion of the pendulum is not in a plane and rather the  plane of oscillation keeps changing and this simulation shows how this is happening. This is a very simplke yet beautiful proof of earth's rotation  
-
-
+A detailed presentation can be seen here - (here)[https://docs.google.com/presentation/d/1zGPZZ6i7xeJ5kZhfs0uXpLLQkGKN2nGrfFmFf72jizM/edit?usp=sharing]
