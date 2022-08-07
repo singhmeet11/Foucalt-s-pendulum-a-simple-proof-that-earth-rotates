@@ -22,4 +22,4 @@ We developed a small app using python which is labelled "cos_fin2.py", simply la
 
 Various plots have been analysed in the attached jupyter notebook 
 
-A detailed presentation can be seen here - (here)[https://docs.google.com/presentation/d/1zGPZZ6i7xeJ5kZhfs0uXpLLQkGKN2nGrfFmFf72jizM/edit?usp=sharing]
+A detailed presentation can be seen here - [here](https://docs.google.com/presentation/d/1zGPZZ6i7xeJ5kZhfs0uXpLLQkGKN2nGrfFmFf72jizM/edit?usp=sharing)
